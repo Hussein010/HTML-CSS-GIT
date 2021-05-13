@@ -4,3 +4,7 @@
   border-radius: 4px;
   background: #fff;
 }
+.countries li {
+  border: 14px solid white;
+  margin: 1rem;
+}
